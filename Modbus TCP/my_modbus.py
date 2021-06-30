@@ -4,7 +4,6 @@
 -- File name : my_modbus.py
 -- 
 -- Written by Dongwon Kim
---    School of Electronic and Electrical Engineering
 --
 -- Modbus TCP communication
 --    read multiple registers
