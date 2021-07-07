@@ -1,9 +1,9 @@
-#Purpose
+# Purpose
 - Understanding Modbus TCP Protocol
 - write simple Modbus TCP communication library code
 - write code that read data from server
 
-#File
+# File
 - Modbus TCP library
   - read multiple registers from server
   - write a register in server
