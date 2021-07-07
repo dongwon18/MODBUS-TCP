@@ -16,7 +16,7 @@
 - print decoded messages at console
 
 # Prerequisite
-- Communication_func.py, decoding.py and main.ipynb shold be in the same directory
+- [Communication_func.py](./Communication_func.py), decoding.py and main.ipynb shold be in the same directory
 - Run the code in an order noticed above
 - Should install pymodbus by
 -      pip install pymodbus
