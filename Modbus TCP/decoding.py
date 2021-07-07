@@ -231,9 +231,3 @@ def decode_gas_info(gas_info, detector):
         cat_id = "[Error] No Cartridge ID for detector " + str(detector)
 
     return gas_id, cat_id
-
-
-# In[5]:
-
-
-#get_ipython().system('jupyter nbconvert --to python decoding.ipynb')
