@@ -5,8 +5,8 @@
 
 #File
 - Modbus TCP library
-  - library code that read multiple registers from server
-  -                   write a register in server
+  - read multiple registers from server
+  - write a register in server
   - following Modbus TCP protocol
 - Reading Gas detector
   - Get data from Gas detector that use Modbus TCP protocol
