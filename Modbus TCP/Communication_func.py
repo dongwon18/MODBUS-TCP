@@ -102,16 +102,3 @@ output
 """
 def padding(data, length):
     return bin(data)[2:].zfill(length)
-
-
-# In[12]:
-
-
-#get_ipython().system('jupyter nbconvert --to python Communication_func.ipynb')
-
-
-# In[ ]:
-
-
-
-
