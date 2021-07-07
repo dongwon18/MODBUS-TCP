@@ -3,11 +3,11 @@
 - read data from gas detectors using Modbus TCP protocol
 
 # How to run
-1. run testing_server.ipynb
+1. run [testing_server.ipynb](./testing_server.ipynb)
      - open local server
-2. run testing_value.ipynb
+2. run [testing_value.ipynb](./testing_value.ipynb)
      - write testing values to registers in server according to Gastron GTD-5000 address mapping sheet
-3. run main.ipynb
+3. run [main.ipynb](./main.ipynb)
      - connect to local server
      - get values from local server
      - interpret the values and print messages
@@ -16,7 +16,7 @@
 - print decoded messages at console
 
 # Prerequisite
-- [Communication_func.py](./Communication_func.py), decoding.py and main.ipynb shold be in the same directory
+- [Communication_func.py](./Communication_func.py), [decoding.py](./decoding.py) and [main.ipynb](./main.ipynb) shold be in the same directory
 - Run the code in an order noticed above
 - Should install pymodbus by
 -      pip install pymodbus
